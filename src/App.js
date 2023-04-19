@@ -1,9 +1,9 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import HomePage from './components/pages/HomePage';
-import AboutPage from './components/pages/AboutPage';
-import ArticlesListPage from './components/pages/ArticlesListPage';
-import ArticlePage from './components/pages/ArticlePage';
+import HomePage from './pages/HomePage';
+import AboutPage from './pages/AboutPage';
+import ArticlesListPage from './pages/ArticlesListPage';
+import ArticlePage from './pages/ArticlePage';
 import NavBar from './components/NavBar';
 
 function App() {
