@@ -4,7 +4,7 @@ import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ArticlesListPage from './pages/ArticlesListPage';
 import ArticlePage from './pages/ArticlePage';
-import NavBar from './components/NavBar';
+import NavBar from './NavBar';
 
 function App() {
   return (
