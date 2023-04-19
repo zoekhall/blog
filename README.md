@@ -1,1 +1,1 @@
-Practice creating a blog site with LinkedIn Learning
+Creating a blog site with LinkedIn Learning
