@@ -1,5 +1,10 @@
+import { useParams } from "react-router-dom";
+
 const ArticlePage = () => {
-	return <h1>This is the article page!</h1>;
+	const { articleId } = useParams();
+	return (
+		<h1>This is the article page!</h1>
+	);
 };
 
 export default ArticlePage;

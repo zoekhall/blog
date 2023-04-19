@@ -4,12 +4,13 @@ import HomePage from './components/pages/HomePage';
 import AboutPage from './components/pages/AboutPage';
 import ArticlesListPage from './components/pages/ArticlesListPage';
 import ArticlePage from './components/pages/ArticlePage';
+import NavBar from './components/NavBar';
 
 function App() {
   return (
     <BrowserRouter>
     <div className="App">
-      <h1>My Awesome Blog</h1>
+      <NavBar />
         <div id="page-body">
           <Routes>
             <Route path="/" element={<HomePage />}  />
