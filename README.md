@@ -1,1 +1,1 @@
-Creating a blog site with LinkedIn Learning
+A blog site created with LinkedIn Learning
